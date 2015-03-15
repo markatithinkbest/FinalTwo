@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ddd --- FinalTwo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sync">Sync</string>
+
+
+    <!-- Account type (for sync-adapter authenticator) -->
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">tcnr18.ithinkbest.com</string>
+    <string name="content_authority">com.ithinkbest.tcnr18.finaltwo.MembersProvider</string>
+
+
+
+
+</resources>
